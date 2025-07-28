@@ -10,7 +10,8 @@ Our focus was on:
 - **M4 – Insufficient Input/Output Validation**
 - **M8 – Security Misconfiguration**
 
-> 🔎 **Note:** For full walkthroughs and technical steps, **refer to the `docs/` folder** in this repository.
+> 🔎 **Note:** For full walkthroughs and technical steps, **refer to the final report here:**  
+> 📄 [OWASP Top 10 for Mobile App_Final Report.pdf](https://github.com/pavithrancj/OWASP-Top-0-Mobile-Application/blob/main/OWASP%20Top%2010%20for%20Mobile%20App_Final%20Report.pdf)
 
 ---
 
@@ -51,7 +52,8 @@ Using **Frida**, **ADB**, and **Android Studio**, we performed runtime manipulat
 
 ## 📚 Documentation
 
-👉 For detailed steps, screenshots, and findings, please check the [`docs/`](./docs/) directory.
+👉 **Full Report PDF:**  
+[OWASP Top 10 for Mobile App_Final Report.pdf](https://github.com/pavithrancj/OWASP-Top-0-Mobile-Application/blob/main/OWASP%20Top%2010%20for%20Mobile%20App_Final%20Report.pdf)
 
 ---
 
